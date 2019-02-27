@@ -1,0 +1,12 @@
+p {
+  color: red;
+}
+header a:hover {
+  color: yellow;
+}
+header h1 {
+  font-size: 60px;
+}
+.bears li {
+  display: inline-block;
+}
